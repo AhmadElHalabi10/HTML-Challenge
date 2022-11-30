@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.secondbigdiv{
+    background-position: center;
+}
+body {
+    height: 100%;
+    color: white;
+    background-color: black;
+    width: 800px;
+    margin-left: 260px;
+    background-color: #cea060;
+
+    }
+
+    .website {
+        background: none;
+    }
+.image {
+    background: url(./Horse1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+    padding-left: 80px;
+    padding-top: 50px;
+    }
+
+
+.CONTAINER1 {
+    margin-top: 15px;
+}
+.CONTAINER2{
+    width:100%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    margin-top: 5px;
+    font-size: 15px;
+    text-decoration: none;
+    background: #fff;
+       }
+
+header a {
+    padding: 0 20px;
+    text-decoration: none;
+    color: #000;
+    border-right: 1px solid #000;
+    }
+
+header a:last-child {
+    border: none;
+    }
+
+.CONTAINER3-1 {
+    min-width: 190px;
+}
+.mainmenu{
+    margin: 10px 0 10px 10px;
+    background: none;
+    background-image: none;
+    background-color: #cea060;
+    color: white;
+}
+
+.menu {
+    margin-bottom: 20px;
+}
+
+.part-two{
+    display: flex;
+}
+.anchor{
+    width: 200px;
+    background: none;
+    background-color: none;
+}
+
+.navforanchor {
+    background: none;
+}
+
+.CONTAINER3 {
+    display: flex;
+    background: #f3f3f3;
+    padding: 10px 0px 40px 0px;
+    margin-top: 10px;
+    width: 100%;
+    background: none;
+    border-bottom: #fff;
+       }
+.CONTAINER3 a{
+    padding: 0 20px;
+    text-decoration: none;
+    
+}
+
+.CONTAINER3-1 {
+    margin-left: 10px;
+    background: none;
+    width: 200px;
+}
+
+.CONTAINER3-2{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.under-block{
+    margin-bottom: 20px;
+}
+
+.CONTAINER3-2-2{
+    display: flex;
+    margin-top: 10px;  
+    color: white;
+    height: 100%;
+}
+
+.CONTAINER3-2-1 {
+    
+}
+
+.CONTAINER3-2-2-1 {
+    border-right: 3px solid white;
+    width:50%;
+    height: 182px;
+    
+    background: #cea060;
+}
+
+.CONTAINER3-2-2-2 {
+    padding-left: 10px;
+    width: 50%;
+    height: 182px;
+    
+}
+button{
+    font-style: bold;
+    color: rgb(46, 8, 8);
+    padding: 8px;
+    background-color: white; 
+    border-style: none;
+    margin-top: 20px;
+}
+
+.submit{
+    font-style: bold;
+    color: rgb(46, 8, 8);
+    padding: 30px;
+    background-color: white; 
+    border-style: none;
+}
+.copyright{
+    text-align: center;
+}
+
+a{
+    color:white;
+}
+
+hr {
+    border-top: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+vr {
+    border-top: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.otherserv{
+    margin-bottom: 20px;
+}
+
+.gallery{
+    margin-bottom: 15px;
+}
+
+.CONTAINER4{
+    border-style: none;
+}
+.CONTAINER5{
+    border-top: white;
+}
